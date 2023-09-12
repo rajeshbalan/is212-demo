@@ -1,4 +1,4 @@
 this is a test
 another test to sow conflict 
-3rd line
+Conflicts will happen
 4th line
